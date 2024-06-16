@@ -30,15 +30,3 @@ This software is open source, free of charge and for learning and exchange purpo
 
     "严禁使用外挂、加速器、脚本或其他破坏游戏公平性的第三方工具。"
     "一经发现，米哈游（下亦称“我们”）将视违规严重程度及违规次数，采取扣除违规收益、冻结游戏账号、永久封禁游戏账号等措施。"
-
-## 赞助
-
-如果喜欢本项目，可以为作者的边牧赞助一点狗粮~
-
-感谢 [小伙伴们的支持](https://github.com/DoctorReid/OneDragon-Thanks)
-
-![赞助](./wiki/sponsor.png)
-
-（趁机宣传我的边牧~）
-
-![边牧](./wiki/my_dog.png)
